@@ -1,0 +1,21 @@
+{
+  "name": "xaprika",
+  "version": "1.0.0",
+  "description": "API for xaprika ecommerce app",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "mssql": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Victor Deb <vctrdb@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
